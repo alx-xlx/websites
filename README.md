@@ -74,9 +74,9 @@ FCS
 
 - [freecoursesite.us](https://freecoursesite.us/) ![Website](https://img.shields.io/website?down_message=down&label=%20&style=plastic&up_message=up&url=https%3A%2F%2Ffreecoursesite.us%2F) - (files in Google Drive)
 
-- [coursecatalog.us](https://coursecatalog.us/)
+- [coursecatalog.us](https://coursecatalog.us/) ![Website](https://img.shields.io/website?down_message=down&label=%20&style=plastic&up_message=up&url=https%3A%2F%2Fcoursecatalog.us%2F)
 
-- [freecoursesonline.me](https://www.freecoursesonline.me/) - AppliedAICourse, CBT Nuggets
+- [freecoursesonline.me](https://www.freecoursesonline.me/) ![Website](https://img.shields.io/website?down_message=down&label=%20&style=plastic&up_message=up&url=https%3A%2F%2Fwww.freecoursesonline.me%2F) - AppliedAICourse, CBT Nuggets
 , Code with Mosh
 , Coursera
 , Laracasts
@@ -93,12 +93,12 @@ FCS
 , teamtreehouse
 , Udacity Nanodegree
 
-- [nulledpremium.com](https://nulledpremium.com/) - Books
+- [nulledpremium.com](https://nulledpremium.com/) ![Website](https://img.shields.io/website?down_message=down&label=%20&style=plastic&up_message=up&url=https%3A%2F%2Fnulledpremium.com%2F) - Books
 , AudioBooks
 , Articles
 , Documents
 
-- [ftuapps.dev](https://ftuapps.dev/) - Developers Ground (Tools for Developers)
+- [ftuapps.dev](https://ftuapps.dev/) ![Website](https://img.shields.io/website?down_message=down&label=%20&style=plastic&up_message=up&url=https%3A%2F%2Fftuapps.dev%2F) - Developers Ground (Tools for Developers)
 
 
 ## Coding
@@ -115,15 +115,15 @@ FCS
 
 [hackingvision.com](https://hackingvision.com/) - Cyber Security
 
-[dc911337.org](https://dc911337.org/) - [thewhiteh4t](https://github.com/thewhiteh4t?tab=repositories)
+[dc911337.org](https://dc911337.org/) ![Website](https://img.shields.io/website?down_message=down&label=%20&style=plastic&up_message=up&url=https%3A%2F%2Fdc911337.org) - [thewhiteh4t](https://github.com/thewhiteh4t?tab=repositories)
 
-[iamhdpro.com](https://www.iamhdpro.com/) - [itsmehacker](https://github.com/itsmehacker?tab=repositories)
+[iamhdpro.com](https://www.iamhdpro.com/) ![Website](https://img.shields.io/website?down_message=down&label=%20&style=plastic&up_message=up&url=https%3A%2F%2Fwww.iamhdpro.com) - [itsmehacker](https://github.com/itsmehacker?tab=repositories)
 
-[hackingtutorials.org](https://www.hackingtutorials.org/) - Hacking Tutorials
+[hackingtutorials.org](https://www.hackingtutorials.org/) ![Website](https://img.shields.io/website?down_message=down&label=%20&style=plastic&up_message=up&url=https%3A%2F%2Fwww.hackingtutorials.org%2F) - Hacking Tutorials
 
-[0day.today](https://0day.today/) - (Open using TOR)
+[0day.today](https://0day.today/) ![Website](https://img.shields.io/website?down_message=down&label=%20&style=plastic&up_message=up&url=https%3A%2F%2F0day.today%2F) - (Open using TOR)
 
-[](https://tuts4you.com/) - Reverse Code Engineering
+[tuts4you.com](https://tuts4you.com/) ![Website](https://img.shields.io/website?down_message=down&label=%20&style=plastic&up_message=up&url=https%3A%2F%2Ftuts4you.com) - Reverse Code Engineering
 
 ## Stats / Productivity
 
@@ -165,10 +165,10 @@ rtl-sdr
 
 ## My Fav
 
-[adriancourreges.com](http://www.adriancourreges.com/) - GTA V - Graphics Study
+[adriancourreges.com](http://www.adriancourreges.com/) ![Website](https://img.shields.io/website?down_message=down&label=%20&style=plastic&up_message=up&url=http%3A%2F%2Fwww.adriancourreges.com) - GTA V - Graphics Study
 
-[tom.io](https://tom.io/)
+[tom.io](https://tom.io/) ![Website](https://img.shields.io/website?down_message=down&label=%20&style=plastic&up_message=up&url=https%3A%2F%2Ftom.io%2F)
 
-[towardsdatascience.com](https://towardsdatascience.com/) - Data Science
+[towardsdatascience.com](https://towardsdatascience.com/) ![Website](https://img.shields.io/website?down_message=down&label=%20&style=plastic&up_message=up&url=https%3A%2F%2Ftowardsdatascience.com) - Data Science
 
-[Dmitriy Maslov](http://hcmaslov.d-real.sci-nnov.ru/) - Public Folder
+[Dmitriy Maslov](http://hcmaslov.d-real.sci-nnov.ru/) ![Website](https://img.shields.io/website?down_message=down&label=%20&style=plastic&up_message=up&url=http%3A%2F%2Fhcmaslov.d-real.sci-nnov.ru) - Public Folder
