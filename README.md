@@ -1,7 +1,7 @@
 # websites
  Websites I visit
 
-
+[fotojet.com](https://www.fotojet.com/apps/) - Create Graphic Designs
 
 [yougetsignal.com](https://www.yougetsignal.com/) - Network Tools
 
@@ -29,6 +29,29 @@
 
 [community.hackernoon.com](https://community.hackernoon.com/) - Hackernoon Forum
 - [hackernoon.com](https://hackernoon.com/) - Main Website
+
+Russian Forums 🇷🇺
+- [ddgroupclub.win](http://ddgroupclub.win/) - 
+- [softpilot.win](https://softpilot.win/) - 
+- [uraltrack.net](http://uraltrack.net/) - 
+- [uniondht.org](http://uniondht.org/) - 
+- [tapochek.net](http://tapochek.net/) - 
+- [trec.to](http://trec.to/) - 
+- [underver.se](https://underver.se/) - 
+- [rutracker.ru](http://rutracker.ru/) - 
+- [emtrek.org](http://emtrek.org/) - 
+- [pb.wtf](https://pb.wtf) - 
+- [fost.club](http://fost.club) - 
+
+
+
+
+
+
+
+
+
+
 
 ## Online Drives
 
