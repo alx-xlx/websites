@@ -172,3 +172,10 @@ rtl-sdr
 [towardsdatascience.com](https://towardsdatascience.com/) ![Website](https://img.shields.io/website?down_message=down&label=%20&style=plastic&up_message=up&url=https%3A%2F%2Ftowardsdatascience.com) - Data Science
 
 [Dmitriy Maslov](http://hcmaslov.d-real.sci-nnov.ru/) ![Website](https://img.shields.io/website?down_message=down&label=%20&style=plastic&up_message=up&url=http%3A%2F%2Fhcmaslov.d-real.sci-nnov.ru) - Public Folder
+
+
+
+
+## Disclaimer
+
+I am in no way responsible for any content shared in the above websites, use at your own risk.
