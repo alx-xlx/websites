@@ -101,6 +101,10 @@ FCS
 
 ## Coding
 
+[fonts.google.com](https://fonts.google.com/)
+
+[learntocodetogether.com](https://learntocodetogether.com/) - Collection of all Coding Related Stuff
+
 [null-byte.wonderhowto.com](https://null-byte.wonderhowto.com/)
 
 [hackingvision.com](https://hackingvision.com/) - Cyber Security
@@ -113,6 +117,7 @@ FCS
 
 [0day.today](https://0day.today/) - (Open using TOR)
 
+[](https://tuts4you.com/) - Reverse Code Engineering
 
 ## Stats / Productivity
 
@@ -126,6 +131,11 @@ FCS
 
 [retrowaste.com](https://www.retrowaste.com/) - Retro Content
 
+[nationaldaycalendar.com](https://nationaldaycalendar.com/) - National Days
+
+[holidayscalendar.com](http://www.holidayscalendar.com/) - World Holidays
+
+[archive.org](https://archive.org/) - Internet Archive
 
 ## Graphics
 
@@ -136,3 +146,17 @@ FCS
 ## DIY
 
 [domoticz.com](https://www.domoticz.com/) - Home Automation System
+
+
+## Music
+
+[Rocksmith](http://ignition.customsforge.com/)
+
+
+## My Fav
+
+[adriancourreges.com](http://www.adriancourreges.com/) - GTA V - Graphics Study
+
+[towardsdatascience.com](https://towardsdatascience.com/) - Data Science
+
+[Dmitriy Maslov](http://hcmaslov.d-real.sci-nnov.ru/) - Public Folder
