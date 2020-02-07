@@ -120,6 +120,19 @@ FCS
 
 [trello.com](https://trello.com/) - 
 
+[letterboxd.com](https://letterboxd.com/) - Log movies watched
+
 ## Other
 
 [retrowaste.com](https://www.retrowaste.com/) - Retro Content
+
+
+## Graphics
+
+[feathericons.com](https://feathericons.com/) - Simply beautiful open source icons
+
+[hiclipart.com](https://www.hiclipart.com/) - Cliparts
+
+## DIY
+
+[domoticz.com](https://www.domoticz.com/) - Home Automation System
