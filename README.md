@@ -44,7 +44,11 @@ Russian Forums 🇷🇺
 - [fost.club](http://fost.club) - 
 
 
-
+Null Leaks Forums
+- [cracked.to](https://cracked.to/)
+- [nulled.to](https://www.nulled.to)
+- [cracking.org](https://cracking.org/)
+- [nulled.ch](https://www.nulled.ch/)
 
 
 
@@ -101,6 +105,10 @@ FCS
 
 ## Coding
 
+[stackoverflow.com](https://stackoverflow.com/)
+
+[stackexchange.com](https://stackexchange.com/sites)
+
 [fonts.google.com](https://fonts.google.com/)
 
 [learntocodetogether.com](https://learntocodetogether.com/) - Collection of all Coding Related Stuff
@@ -147,6 +155,10 @@ FCS
 
 [domoticz.com](https://www.domoticz.com/) - Home Automation System
 
+rtl-sdr
+- [rtl-sdr.com](https://www.rtl-sdr.com/) - RTL2832U
+- [noaa-apt.mbernardi.com.ar](https://noaa-apt.mbernardi.com.ar/) - Receive and decode images from weather satellites
+- [hewgill.com](https://hewgill.com/nwr/) - NOAA Weather Radio
 
 ## Music
 
