@@ -1,7 +1,7 @@
 # websites
  Websites I visit
 
-[fotojet.com](https://www.fotojet.com/apps/) [Website](https://img.shields.io/website?down_message=down&label=%20&up_message=up&url=https%3A%2F%2Fwww.fotojet.com%2Fapps) - Create Graphic Designs
+[fotojet.com](https://www.fotojet.com/apps/) ![Website](https://img.shields.io/website?down_message=down&label=%20&up_message=up&url=https%3A%2F%2Fwww.fotojet.com%2Fapps) - Create Graphic Designs
 
 [yougetsignal.com](https://www.yougetsignal.com/) ![Website](https://img.shields.io/website?down_message=down&label=%20&up_message=up&url=https%3A%2F%2Fwww.yougetsignal.com%2F) - Network Tools
 
