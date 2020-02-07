@@ -127,11 +127,11 @@ FCS
 
 ## Stats / Productivity
 
-[tiii.me](https://tiii.me/) - Calculate your total time spent watching TV shows
+[tiii.me](https://tiii.me/) ![Website](https://img.shields.io/website?label=%20&style=flat-square&url=https%3A%2F%2Ftiii.me%2F) - Calculate your total time spent watching TV shows
 
-[trello.com](https://trello.com/) - 
+[trello.com](https://trello.com/) ![Website](https://img.shields.io/website?label=%20&style=flat-square&url=https%3A%2F%2Ftrello.com) - 
 
-[letterboxd.com](https://letterboxd.com/) - Log movies watched
+[letterboxd.com](https://letterboxd.com/) ![Website](https://img.shields.io/website?label=%20&style=flat-square&url=https%3A%2F%2Fletterboxd.com) - Log movies watched
 
 ## Other
 
