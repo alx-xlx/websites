@@ -29,17 +29,17 @@
 - [hackernoon.com](https://hackernoon.com/) - Main Website
 
 Russian Forums 🇷🇺
-- [ddgroupclub.win](http://ddgroupclub.win/) - 
-- [softpilot.win](https://softpilot.win/) - 
-- [uraltrack.net](http://uraltrack.net/) - 
-- [uniondht.org](http://uniondht.org/) - 
-- [tapochek.net](http://tapochek.net/) - 
-- [trec.to](http://trec.to/) - 
-- [underver.se](https://underver.se/) - 
-- [rutracker.ru](http://rutracker.ru/) - 
-- [emtrek.org](http://emtrek.org/) - 
-- [pb.wtf](https://pb.wtf) - 
-- [fost.club](http://fost.club) - 
+- [ddgroupclub.win](http://ddgroupclub.win/) ![Website](https://img.shields.io/website?label=%20&url=http%3A%2F%2Fddgroupclub.win) - 
+- [softpilot.win](https://softpilot.win/) ![Website](https://img.shields.io/website?label=%20&url=https%3A%2F%2Fsoftpilot.win%2F) - 
+- [uraltrack.net](http://uraltrack.net/) ![Website](https://img.shields.io/website?label=%20&url=http%3A%2F%2Furaltrack.net%2F) - 
+- [uniondht.org](http://uniondht.org/) ![Website](https://img.shields.io/website?label=%20&url=http%3A%2F%2Funiondht.org%2F) - 
+- [tapochek.net](http://tapochek.net/) ![Website](https://img.shields.io/website?label=%20&url=http%3A%2F%2Ftapochek.net) - 
+- [trec.to](http://trec.to/) ![Website](https://img.shields.io/website?label=%20&url=http%3A%2F%2Ftrec.to%2F) - 
+- [underver.se](https://underver.se/) ![Website](https://img.shields.io/website?label=%20&url=https%3A%2F%2Funderver.se%2F) - 
+- [rutracker.ru](http://rutracker.ru/) ![Website](https://img.shields.io/website?label=%20&url=http%3A%2F%2Frutracker.ru) - 
+- [emtrek.org](http://emtrek.org/) ![Website](https://img.shields.io/website?label=%20&url=http%3A%2F%2Femtrek.org) - 
+- [pb.wtf](https://pb.wtf) ![Website](https://img.shields.io/website?label=%20&url=https%3A%2F%2Fpb.wtf) - 
+- [fost.club](http://fost.club) ![Website](https://img.shields.io/website?label=%20&url=http%3A%2F%2Ffost.club) - 
 
 
 Null Leaks Forums
