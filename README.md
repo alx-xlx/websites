@@ -19,9 +19,16 @@
 <!-- - []() - 
 - []() -  -->
 
-## Tutorials
+## Forums
 
 [onehack.us](https://onehack.us/) - Together we learn
+
+[52pojie.cn](https://www.52pojie.cn/) - 🇨🇳
+
+[miped.ru](https://miped.ru/) - 🇷🇺
+
+[community.hackernoon.com](https://community.hackernoon.com/) - Hackernoon Forum
+- [hackernoon.com](https://hackernoon.com/) - Main Website
 
 ## Online Drives
 
