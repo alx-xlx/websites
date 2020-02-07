@@ -135,13 +135,13 @@ FCS
 
 ## Other
 
-[retrowaste.com](https://www.retrowaste.com/) - Retro Content
+[retrowaste.com](https://www.retrowaste.com/) ![Website](https://img.shields.io/website?label=%20&url=https%3A%2F%2Fwww.retrowaste.com) - Retro Content
 
-[nationaldaycalendar.com](https://nationaldaycalendar.com/) - National Days
+[nationaldaycalendar.com](https://nationaldaycalendar.com/) ![Website](https://img.shields.io/website?label=%20&url=https%3A%2F%2Fnationaldaycalendar.com) - National Days
 
-[holidayscalendar.com](http://www.holidayscalendar.com/) - World Holidays
+[holidayscalendar.com](http://www.holidayscalendar.com/) ![Website](https://img.shields.io/website?label=%20&url=http%3A%2F%2Fwww.holidayscalendar.com) - World Holidays
 
-[archive.org](https://archive.org/) - Internet Archive
+[archive.org](https://archive.org/) ![Website](https://img.shields.io/website?label=%20&url=https%3A%2F%2Farchive.org%2F) - Internet Archive
 
 ## Graphics
 
