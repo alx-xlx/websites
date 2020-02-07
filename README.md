@@ -97,3 +97,26 @@ FCS
 , Documents
 
 - [ftuapps.dev](https://ftuapps.dev/) - Developers Ground (Tools for Developers)
+
+
+## Coding
+
+[null-byte.wonderhowto.com](https://null-byte.wonderhowto.com/)
+
+[hackingvision.com](https://hackingvision.com/) - Cyber Security
+
+[dc911337.org](https://dc911337.org/) - [thewhiteh4t](https://github.com/thewhiteh4t?tab=repositories)
+
+[iamhdpro.com](https://www.iamhdpro.com/) - [itsmehacker](https://github.com/itsmehacker?tab=repositories)
+
+[hackingtutorials.org](https://www.hackingtutorials.org/) - Hacking Tutorials
+
+[0day.today](https://0day.today/) - (Open using TOR)
+
+
+## Stats / Productivity
+
+[tiii.me](https://tiii.me/) - Calculate your total time spent watching TV shows
+
+[trello.com](https://trello.com/) - 
+
