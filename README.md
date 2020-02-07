@@ -160,7 +160,7 @@ rtl-sdr
 
 ## Music
 
-[Rocksmith](http://ignition.customsforge.com/)
+[Rocksmith](http://ignition.customsforge.com/) ![Website](https://img.shields.io/website?down_message=down&label=%20&style=plastic&up_message=up&url=http%3A%2F%2Fignition.customsforge.com%2F)
 
 
 ## My Fav
