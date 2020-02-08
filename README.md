@@ -177,7 +177,10 @@ rtl-sdr
 
 ## Trending these days
 
-[Teachable Machine](https://teachablemachine.withgoogle.com/)
+[Teachable Machine](https://teachablemachine.withgoogle.com/) | [ShortLnk](https://g.co/teachablemachine) - [Source](https://github.com/googlecreativelab/teachablemachine-community)
+
+
+
 
 
 ## Disclaimer
