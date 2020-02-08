@@ -177,7 +177,7 @@ rtl-sdr
 
 ## Trending these days
 
-[Teachable Machine](https://teachablemachine.withgoogle.com/) | [ShortLnk](https://g.co/teachablemachine) - Teach Machine on Browser [Source](https://github.com/googlecreativelab/teachablemachine-community)
+[Teachable Machine](https://teachablemachine.withgoogle.com/) | [ShortLnk](https://g.co/teachablemachine) - Teach Machine on Browser [Source](https://github.com/googlecreativelab/teachablemachine-community) (Check out other Repo)
 
 
 [stoj.io](http://stoj.io/)
