@@ -175,7 +175,9 @@ rtl-sdr
 
 [Dmitriy Maslov](http://hcmaslov.d-real.sci-nnov.ru/) ![Website](https://img.shields.io/website?down_message=down&label=%20&style=plastic&up_message=up&url=http%3A%2F%2Fhcmaslov.d-real.sci-nnov.ru) - Public Folder
 
+## Trending these days
 
+[Teachable Machine](https://teachablemachine.withgoogle.com/)
 
 
 ## Disclaimer
