@@ -105,7 +105,9 @@ FCS
 
 ## Coding
 
-[gitpod.io](https://gitpod.io/)
+[gitpod.io](https://gitpod.io/) - Coding Environment
+
+[gitter.im](https://gitter.im/) - Coding Community Chat
 
 [stackoverflow.com](https://stackoverflow.com/)
 
