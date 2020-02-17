@@ -194,3 +194,21 @@ rtl-sdr
 ## Disclaimer
 
 I am in no way responsible for any content shared in the above websites, use at your own risk.
+
+
+
+## Onion Links
+
+[Imperial Library](http://xfmro77i3lixucja.onion/) - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
