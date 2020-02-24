@@ -205,9 +205,9 @@ I am in no way responsible for any content shared in the above websites, use at 
 
 [F3-thinker](http://awaken4u2655myzx.onion/) - 
 
-[](http://3ehzuhculg42rosa.onion) - 
+[The Terminal](http://3ehzuhculg42rosa.onion) - 
 
-[]() - 
+[beatnix](http://beatnixo6vjocscp.onion) - 
 
 []() - 
 
