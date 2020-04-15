@@ -23,6 +23,8 @@
 
 [onehack.us](https://onehack.us/) ![Website](https://img.shields.io/website?down_message=down&label=%20&up_message=up&url=https%3A%2F%2Fonehack.us%2F) - Together we learn
 
+[rin.ru](https://cs.rin.ru/)
+
 [52pojie.cn](https://www.52pojie.cn/) ![Website](https://img.shields.io/website?down_message=down&label=%20&up_message=up&url=https%3A%2F%2Fwww.52pojie.cn) - 🇨🇳
 
 [miped.ru](https://miped.ru/) ![Website](https://img.shields.io/website?down_message=down&label=%20&up_message=up&url=https%3A%2F%2Fmiped.ru%2F) - 🇷🇺
